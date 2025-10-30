@@ -8,7 +8,6 @@ torchvision==0.22.0 --index-url https://download.pytorch.org/whl/cu128
 https://github.com/loscrossos/lib_flashattention/releases/download/v2.7.4.post1_crossos00/flash_attn-2.7.4.post1+cu129torch2.7.0-cp312-cp312-win_amd64.whl ; sys_platform == 'win32' #egg:v2.7.4.post1
 transformers
 
-
 # Optional
 ipykernel
 langchain_huggingface
