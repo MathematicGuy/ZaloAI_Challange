@@ -16,7 +16,7 @@
             "_unused_": "cbb77f7bf70be7d60ac580753f67ee61@1"
         },
         {
-            "id": "train_0002",
+            "id": "train_0002",  
             "question": "Phần đường trong video cho phép các phương tiện đi theo hướng nào khi đến nút giao?",
             "choices": [
                 "A. Đi thẳng",
